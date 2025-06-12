@@ -1,1 +1,18 @@
 # div_10 this is second git hub file
+
+commands for terminal 
+
+1. git clone {file url}
+
+2. ls{showing file name}
+
+3.cd file name{(main)}
+
+4.git status {showing red file name}
+
+5.git add . {main}
+
+6.git status
+
+7.git commit -m "update_file"
+
